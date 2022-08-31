@@ -2,19 +2,7 @@
 title: Bitoku Labs / Solana Validator
 email: validator@bitoku.io
 description: High-Performance Solana Validator Operated by Bitoku Labs
-
-	# For Techie-404
-	#baseurl: /oku-val
-
-	# For bernieblume
-	baseurl: /vali.bitoku
-
-	# For Techie-404
-	#url: "https://t3chie-404.github.io"
-
-	# For bernieblume
-	url: "https://vali.bitoku.io/"
-
+url: "https://vali.bitoku.io"
 keywords: "bitoku,solana,validator"
 skills: High-Performance Solana Validator Operated by Bitoku Labs
 #meta_author: LastName FirstName
