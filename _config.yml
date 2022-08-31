@@ -1,0 +1,86 @@
+# Site settings
+title: Bitoku Labs / Solana Validator
+email: validator@bitoku.io
+description: High-Performance Solana Validator Operated by Bitoku Labs
+
+	# For Techie-404
+	#baseurl: /oku-val
+
+	# For bernieblume
+	baseurl: /vali.bitoku
+
+	# For Techie-404
+	#url: "https://t3chie-404.github.io"
+
+	# For bernieblume
+	url: "https://vali.bitoku.io/"
+
+keywords: "bitoku,solana,validator"
+skills: High-Performance Solana Validator Operated by Bitoku Labs
+#meta_author: LastName FirstName
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+#contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+#disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 191919 #C0C0C0 #18bc9c #80B3FF
+  primary-rgb: "25,25,25" #"24,288,156" #"128,179,255"
+  secondary:  566573 #2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Bitoku Labs
+  #location: San Francisco, CA, USA
+  #social: Around the Web
+  #credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
+   - title: discord
+     url: https://discord.gg/R8phB2JxjZ
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Bitoku Labs, Inc.
+  - line: 149 New Montgomery St, Fl 4
+  - line: San Francisco, CA 94105
+
+# Credits content
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
