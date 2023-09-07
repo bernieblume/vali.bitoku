@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Bitoku Labs
-  #location: San Francisco, CA, USA
+  #location: Las Vegas, NV, USA
   #social: Around the Web
   #credits: Credits
 
@@ -55,8 +55,8 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Bitoku Labs, Inc.
-  - line: 149 New Montgomery St, Fl 4
-  - line: San Francisco, CA 94105
+  - line: 10845 Griffith Peak Dr, Floor 2, 
+  - line: Las Vegas, NV 89135
 
 # Credits content
 #credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
